@@ -1,5 +1,0 @@
-commit this version to git
-rewrite program in OOP
-add task completion status
-add task priority
-save to json instead of txt
